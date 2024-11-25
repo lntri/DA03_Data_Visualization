@@ -1,0 +1,49 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+
+format: jb-book
+root: intro
+chapters:
+- file: Vai_tro_cua_truc_quan_hoa_du_lieu
+  sections:
+  - file: Buoi_1_Vai_tro/Tong_quan
+  - file: Buoi_1_Vai_tro/Cac_nguyen_tac_quan_trong
+  - file: Buoi_1_Vai_tro/Cac_bieu_do_thong_dung
+  - file: Buoi_1_Vai_tro/Mau_sac
+
+- file: Matplotlib_Seaborn
+- file: Buoi_2_Matplotlib_Seaborn/Phan_loai_du_lieu
+- file: Buoi_2_Matplotlib_Seaborn/Cac_thanh_phan_trong_bieu_do
+- file: Buoi_2_Matplotlib_Seaborn/Cac_thu_vien_truc_quan_hoa_du_lieu
+- file: Buoi_2_Matplotlib_Seaborn/Truc_quan_hoa_du_lieu_voi_Seaborn
+  sections:
+  - file: Buoi_2_Matplotlib_Seaborn/cac_dang_bieu_do_phan_phoi_du_lieu
+  - file: Buoi_2_Matplotlib_Seaborn/cac_dang_bieu_do_the_hien_mqh_du_lieu
+  - file: Buoi_2_Matplotlib_Seaborn/cac_dang_bieu_do_the_hien_thong_ke_du_lieu
+  - file: Buoi_2_Matplotlib_Seaborn/dang_bieu_do_the_hien_xu_huong_du_lieu.md
+- file: Buoi_2_Matplotlib_Seaborn/Truc_quan_da_bien_voi_luoi
+  
+# format: jb-book
+# root: intro
+
+# chapters:
+# - file: Vai_tro_cua_truc_quan_hoa_du_lieu
+#   sections:
+#   - file: Buoi_1_Vai_tro/Tong_quan
+#   - file: Buoi_1_Vai_tro/Cac_nguyen_tac_quan_trong
+#   - file: Buoi_1_Vai_tro/Cac_bieu_do_thong_dung
+#   - file: Buoi_1_Vai_tro/Mau_sac
+
+# - file: Matplotlib_Seaborn
+# - file: Buoi_2_Matplotlib_Seaborn/Phan_loai_du_lieu
+# - file: Buoi_2_Matplotlib_Seaborn/Cac_thanh_phan_trong_bieu_do
+# - file: Buoi_2_Matplotlib_Seaborn/Cac_thu_vien_truc_quan_hoa_du_lieu
+# - file: Buoi_2_Matplotlib_Seaborn/Truc_quan_hoa_du_lieu_voi_Seaborn
+#   sections:
+#   - file: Buoi_2_Matplotlib_Seaborn/cac_dang_bieu_do_phan_phoi_du_lieu
+#   - file: Buoi_2_Matplotlib_Seaborn/cac_dang_bieu_do_the_hien_mqh_du_lieu
+#   - file: Buoi_2_Matplotlib_Seaborn/cac_dang_bieu_do_the_hien_thong_ke_du_lieu
+#   - file: Buoi_2_Matplotlib_Seaborn/dang_bieu_do_the_hien_xu_huong_du_lieu.md
+# - file: Buoi_2_Matplotlib_Seaborn/Truc_quan_da_bien_voi_luoi
+

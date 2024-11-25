@@ -1,0 +1,5 @@
+venv_windows
+venv_linux
+venv
+__pycache__
+.idea
